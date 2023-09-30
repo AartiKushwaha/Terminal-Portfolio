@@ -62,10 +62,10 @@ projects = [
 
 Built With
 
-    *Next.js
-    *Tailwind CSS
-    *Programmable Search Engine
-    *Yarn
+    *ReactJs
+    *NodeJs
+    *ExpressJs
+    *MongoDB
 `,
 
   "<br>",
@@ -79,11 +79,11 @@ Project is live here <a href="https://monkedao.aartikushwaha.repl.co/" target="b
 
 Built With
 
-    *Next.js
-    *Tailwind CSS
-    *Google Sheets api
-    *IFTTT
-    *Yarn
+    *ReactJs
+    *NodeJs
+    *ExpressJs
+    *MongoDB
+    *ThirdWeb
 `,
 
   "<br>",
@@ -97,11 +97,12 @@ Project is live here <a href="https://realtime-chatapplication-production.up.rai
 
 Built With
 
-    *Next.js
-    *Tailwind CSS
-    *Google Sheets api
-    *IFTTT
-    *Yarn
+    *Html
+    *CSS
+    *JavaScript
+    *NodeJs
+    *ExpressJs 
+    *socket.io
 `,
 
   "<br>",
